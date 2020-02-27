@@ -1,0 +1,20 @@
+<ruby block-begin="title">AdBlock Leeds<ruby block-end="title">
+<ruby block-begin="main">
+    <article>
+        <ruby>
+            item_div = lambda { |post| 
+                LI([
+                    A(H4(post.title), href: post.link),
+                    BR(),
+                    SPAN(["Last updated on ", post.dates.last])
+                ]) 
+            }
+            list = posts.sort_by { |post| post.dates.last }.map { |post| item_div.call(post) }
+            p SECTION([
+                H1("Recent Posts"),
+                OL(list, class: "unlabelled")
+            ])
+        </ruby>
+        <!-- Do some ruby code here to get the most recent posts -->
+    </article>
+<ruby block-end="main">

@@ -1,0 +1,16 @@
+<ruby include="page_layout.rml">
+<ruby block-begin="title">Get in Touch<ruby block-end="title">
+<ruby block-begin="main">
+    <article>
+        <h1>Contact</h1>
+        <p>
+            If you want to stay updated with our campaigns and calls for action, feel free to check 
+            out <a href="https://www.facebook.com/groups/564680434293348/?ref=bookmarks">AdBlock 
+            Leeds on Facebook</a> or sign up to our mailing list.
+        </p>
+        <p>
+            Alternatively, you can email us directly at 
+            <a href="mailto:adblock.leeds@protonmail.com">adblock.leeds@protonmail.com</a>.
+        </p>
+    </article>
+<ruby block-end="main">

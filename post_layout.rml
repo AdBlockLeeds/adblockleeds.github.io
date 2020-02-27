@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        <ruby block-begin="title">AdBlock Leeds<ruby block-end="title">
+    </title>
+</head>
+<body>
+    <header>
+    </header>
+    <main>
+        <ruby block-begin="banner">
+        <ruby block-end="banner">
+        <ul class="unlabelled">
+            <ruby block-begin="tags">
+            <ruby block-end="tags">
+        </ul>
+        <article>
+            <ruby block-begin="main">
+            <ruby block-end="main">
+        </article>
+    </main>
+    <footer>
+        <dl>
+            <ruby block-begin="history">
+            <ruby block-end="history">
+        </dl>            
+    </footer>
+</body>
+</html>
